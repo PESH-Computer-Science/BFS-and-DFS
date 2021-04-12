@@ -10,7 +10,9 @@ Code + PPT + Video for the Breadth-first Search (BFS) Algorithm.
 
 ## [**BFS Video**](https://youtu.be/7UhCFunIQ0U)
 
-## General Algorithm
+## [**DFS Video**](https://youtu.be/7x0uqd4Et8Q)
+
+## BFS General Algorithm
 - Add starting point to the queue
 - Iterate while the queue is not empty
   - Remove top coordinate from queue
