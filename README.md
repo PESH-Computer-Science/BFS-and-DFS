@@ -1,9 +1,12 @@
-# BFS
+# BFS + DFS
 Code + PPT + Video for the Breadth-first Search (BFS) Algorithm.
 
 - [**BFS_Floodfill.java**](https://github.com/PESH-Computer-Science/BFS/blob/main/BFS_Floodfill.java): Code for doing a BFS and changing squares of a certain color to a new color.
+- [**DFS Floodfill.java**](https://github.com/PESH-Computer-Science/BFS-and-DFS/blob/main/DFS.java)
+- [**DFS Island Counting**](https://github.com/PESH-Computer-Science/BFS-and-DFS/blob/main/IslandCounting.java)
 - [**BFS_Maze.java**](https://github.com/PESH-Computer-Science/BFS/blob/main/BFS_Maze.java): Code for shortest path in a grid with walls.
 - [**PPT**](https://github.com/PESH-Computer-Science/BFS/blob/main/BFS.pptx)
+
 
 ## [**BFS Video**](https://youtu.be/7UhCFunIQ0U)
 
